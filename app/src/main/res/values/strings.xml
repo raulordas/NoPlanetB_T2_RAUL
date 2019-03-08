@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">NoPlanetB</string>
+    <string name="slogan">too late for leaving...</string>
+    <string name="todo">TODO</string>
+    <string name="sign_in">Sign In</string>
+    <string name="password">Password</string>
+    <string name="email">Email</string>
+    <string name="EMPTY_FIELDS">Debe rellenar todos los campos</string>
+    <string name="DATOS_INCORRECTOS">El usuario o el password son incorrectos</string>
+    <string name="TEXT_GENERATION">And no text generation</string>
+    <string name="ACTION_RESTORED">Remember, there is NoPlanetB!!!!</string>
+    <string name="SETTINGS">Settings</string>
+    <string name="METAPHOR">A material metaphor is the unifying theory of a rationalized space and a system of motion. The material is grounded in tactile reality, inspired by the study of paper and ink, yet technologically advanced and open to imagination and magic.
+Surfaces and edges of the material provide visual cues that are grounded in reality. The use of familiar tactile attributes helps users quickly understand affordances. Yet the flexibility of the material creates new affordances that supersede those in the physical world, without breaking the rules of physics. The fundamentals of light, surface, and movement are key to conveying how objects move, interact, and exist in space and in relation to each other. </string>
+    <string name="leave">Leave</string>
+    <string name="stay">Stay</string>
+    <string name="configuracion">Configuracion</string>
+    <string name="sign_in_two">Sign In</string>
+    <string name="no_eres_usuario_registrate">¿No eres usuario? Registrate</string>
+</resources>
